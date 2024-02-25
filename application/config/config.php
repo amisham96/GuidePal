@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://guidepal.maavaishodevitourstravels.in/';
+$config['base_url'] = 'http://66.228.60.213/guidepal/';
 
 /*
 |--------------------------------------------------------------------------

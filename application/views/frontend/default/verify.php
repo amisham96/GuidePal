@@ -157,7 +157,7 @@ function ResendOtpCallFun(){
 }
 
 function reSendOtpAjax(){
-	window.location.href = 'https://guidepal.maavaishodevitourstravels.in/verify';
+	window.location.href = 'http://66.228.60.213/guidepal/verify';
 	/*$.ajax({
        type: 'post',
        url: 'resend-otp',

@@ -1,5 +1,5 @@
 $(document).ready(function () {
-const mainurl='https://guidepal.maavaishodevitourstravels.in/'; 
+const mainurl='http://66.228.60.213/guidepal/'; 
 	
 	var oldDate, newDate, days, hours, min, sec, unique_id,userType, bg_image, inter, inter3, inter2,
 		chatBox = document.getElementById('chat_message_area'),

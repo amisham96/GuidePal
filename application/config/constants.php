@@ -89,6 +89,6 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 
 
-define('BASE_URL', "https://guidepal.maavaishodevitourstravels.in/");
+define('BASE_URL', "http://66.228.60.213/guidepal/");
 define('BACKEND_CSS_URL', BASE_URL."assets/backend/");
 define('FILE_INCLUDE', "/home/maavaishodevitou/guidepal.maavaishodevitourstravels.in/application/views/default/admin/");
